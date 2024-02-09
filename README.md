@@ -31,6 +31,9 @@ source apienv/bin/activate
 
 ```
 ```
+cd cat_picture_api
+```
+```
 git clone git@github.com:balapavankumar333/image_rest_api.git
 ```
 ```
